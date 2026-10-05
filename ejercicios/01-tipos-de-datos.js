@@ -25,11 +25,5 @@ function esPrecioValido(valor) {
   }
 }
 
-
-
-
-
-
-
 // No borres esta línea: es la puerta por donde el test usa tu función
 module.exports = { esPrecioValido };
